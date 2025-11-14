@@ -1,2 +1,2 @@
 # ORM-RAG
-Organ-Aware Routing Mixture-of-Retrieval Augmented Generation for Fetal Ultrasound Reporting
+Organ-Aware Routing Mixture-of-Retrieval Augmented Generation for Fetal Ultrasound Reporting (AAAI-26)
