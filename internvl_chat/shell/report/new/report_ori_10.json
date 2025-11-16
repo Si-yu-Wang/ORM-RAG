@@ -1,0 +1,10 @@
+{
+   
+    "report_zh": {
+      "root": "/",
+      "annotation": "/public/Report-Ge/code/InternVL-wsy/internvl_chat/datasets/without_spine_and_kidney/get_label/aligned_train_en_refined_labels_retrieved.jsonl",
+      "data_augment": false,
+      "repeat_time": 1
+    } 
+  }
+  

@@ -1,0 +1,35 @@
+[
+    {
+        "sample_id": "201811071110",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nPlease help me generate a report for this video"
+            },
+            {
+                "from": "gpt",
+                "value": "description"
+            }
+        ],
+        "image": [
+            "path/to/img1.jpg",
+            "path/to/img2.jpg",
+            "path/to/img3.jpg",
+            "path/to/img4.jpg",
+            "path/to/img5.jpg",
+            "path/to/img6.jpg",
+            "path/to/img7.jpg",
+            "path/to/img8.jpg",
+            "path/to/img9.jpg",
+            "path/to/img10.jpg",
+            "path/to/img11.jpg",
+            "path/to/img12.jpg"
+        ],
+        "retrieval_image": [
+            "path/to/retrieval_img1.jpg"
+        ],
+        "retrieval_report": [
+            "path/to/retrieval_report1.txt"
+        ]
+    }
+]

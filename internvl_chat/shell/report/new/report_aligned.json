@@ -1,0 +1,10 @@
+{
+   
+    "report_zh": {
+      "root": "/",
+      "annotation": "/public/Report-Ge/dataset/report_gen/annotation_v1/train_middle_data_belong_en.jsonl",
+      "data_augment": false,
+      "repeat_time": 1
+    } 
+  }
+  

@@ -1,0 +1,22 @@
+[
+    {
+        "sample_id": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please help me generate a report for this video"
+            },
+            {
+                "from": "gpt",
+                "value": "description"
+            }
+        ],
+        "image": [
+            "path/to/img1.jpg",
+            "path/to/img2.jpg",
+            "path/to/img3.jpg",
+            "path/to/img4.jpg",
+            "path/to/img5.jpg"
+        ]
+    }
+]
