@@ -140,16 +140,6 @@ The script loads the best checkpoint, runs inference on the evaluation split, an
 
 ---
 
-## 7. Tips & Troubleshooting
-
-| Issue                 | Remedy                                                                                                   |
-| --------------------- | -------------------------------------------------------------------------------------------------------- |
-| ``                    | Reduce `--batch-size` or switch to gradient accumulation.                                                |
-| `ModuleNotFoundError` | Double‑check that `pip install -r requirements.txt` finished without errors and that the venv is active. |
-| FAISS segfault        | Re‑install FAISS matching your CUDA version (`pip install faiss-gpu==<ver>`).                            |
-
----
-
 ## 8. Citation
 
 If you build upon this work, please cite:
@@ -174,5 +164,5 @@ If you build upon this work, please cite:
 ### Contact
 
 Questions or PRs welcome!\
-Mandel Li · [your.email@example.com](mailto\:your.email@example.com) · Issues tab on GitHub
+Mandel Li · [siyuw8897@gmail.com](mailto\:siyuw8897@gmail.com) · Issues tab on GitHub
 
