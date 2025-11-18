@@ -164,5 +164,5 @@ If you build upon this work, please cite:
 ### Contact
 
 Questions or PRs welcome!\
-Mandel Li · [siyuw8897@gmail.com](mailto\:siyuw8897@gmail.com) · Issues tab on GitHub
+Wang · [siyuw8897@gmail.com](mailto\:siyuw8897@gmail.com) · Issues tab on GitHub
 
